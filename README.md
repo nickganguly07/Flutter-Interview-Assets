@@ -12,6 +12,6 @@ IMPORTANT NOTES:
 2) You must use meaningful veriable name
 3) Comments on the code must be meaningful and informative to assist other developers
 4) Use imagery assets as seen on design
-5) Demonstrate DRY method within your code
+5) Demonstrate BLOC Pattern within your code even for the theme 
 
 Developer Handoff Link: https://xd.adobe.com/view/1e6e0b43-9eda-44bc-6084-bb46c4a1daf9-685f/
